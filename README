@@ -1,11 +1,8 @@
-### CrashTheTrolls v1.0
+CrashTheTrolls v1.0
 Crash those pesky trolls by crashing their client.
 
-***Commands:***
-
+Commands:
 /crash <player>
 
-
-***Permissions:***
-
+Permissions:
 crashthetrolls.crash: Permission to crash another player (defaults to OP's).
