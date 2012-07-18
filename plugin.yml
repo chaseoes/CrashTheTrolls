@@ -1,0 +1,10 @@
+name: CrashTheTrolls
+main: me.chaseoes.crashthetrolls.CrashTheTrolls
+version: 1.0
+description: Crash those pesky trolls!
+author: chaseoes
+website: http://a1chase.com
+commands:
+  crash:
+    description: Crash that troll.
+    usage: /crash <player>
